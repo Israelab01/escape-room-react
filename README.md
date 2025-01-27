@@ -18,12 +18,4 @@
 - [Styled Components](https://styled-components.com/): For styling CSS within JavaScript.
 - [Axios](https://axios-http.com/): For making HTTP requests.
 
-## Installation
 
-Follow these steps to set up the project on your local machine:
-
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/Israelab01/escape-room-react.git
-   cd escape-room-react
